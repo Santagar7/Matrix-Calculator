@@ -1,0 +1,12 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\valen\source\repos\курс\курс
+CMake Error at CMakeLists.txt:2 (project):
+  project PROJECT called with incorrect number of arguments
+
+
+CMake Error at CMakeLists.txt:8 (add_executable):
+  The target name "Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp"
+  is reserved or not valid for certain CMake features, such as generator
+  expressions, and may result in undefined behavior.
+
+
+-- Configuring incomplete, errors occurred!
